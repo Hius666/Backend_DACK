@@ -1,0 +1,14 @@
+**/bin/
+**/obj/
+**/.vs/
+**/.env
+**/.env.*
+**/appsettings.Development.json
+**/*.db
+**/*.sqlite
+**/*.bak
+**/*.pfx
+**/*.p12
+**/*.pem
+**/*.key
+.verification/
